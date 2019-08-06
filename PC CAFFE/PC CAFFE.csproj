@@ -585,6 +585,17 @@
     <Compile Include="frmPotrosniMaterijal.designer.cs">
       <DependentUpon>frmPotrosniMaterijal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Report\NaruzdbeNaStolu\FrmNarudzbeNaStolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\NaruzdbeNaStolu\FrmNarudzbeNaStolu.Designer.cs">
+      <DependentUpon>FrmNarudzbeNaStolu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\NaruzdbeNaStolu\NarudzbeNaStoluDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NarudzbeNaStoluDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="SQL\SQLusklada_skladista.cs" />
     <Compile Include="UskladaRobeNaSkladistuForm.cs">
       <SubType>Form</SubType>
@@ -1818,6 +1829,10 @@
     <EmbeddedResource Include="frmSinkronizacija.resx">
       <DependentUpon>frmSinkronizacija.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Report\NaruzdbeNaStolu\FrmNarudzbeNaStolu.resx">
+      <DependentUpon>FrmNarudzbeNaStolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\NaruzdbeNaStolu\ReportNarudzbeNaStolu.rdlc" />
     <EmbeddedResource Include="UskladaRobeNaSkladistuForm.resx">
       <DependentUpon>UskladaRobeNaSkladistuForm.cs</DependentUpon>
       <SubType>Designer</SubType>
@@ -2392,6 +2407,17 @@
       <DependentUpon>DSuskladenje.xsd</DependentUpon>
     </None>
     <None Include="packages.config" />
+    <None Include="Report\NaruzdbeNaStolu\NarudzbeNaStoluDataSet.xsc">
+      <DependentUpon>NarudzbeNaStoluDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Report\NaruzdbeNaStolu\NarudzbeNaStoluDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NarudzbeNaStoluDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\NaruzdbeNaStolu\NarudzbeNaStoluDataSet.xss">
+      <DependentUpon>NarudzbeNaStoluDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Resources\1059.png" />
     <None Include="Resources\10591.png" />
     <None Include="Resources\1211806505.png" />

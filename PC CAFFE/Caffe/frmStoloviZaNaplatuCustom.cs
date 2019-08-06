@@ -1,5 +1,6 @@
 ﻿using PCPOS.Class;
 using PCPOS.PosPrint;
+using PCPOS.Report.NaruzdbeNaStolu;
 using System;
 using System.Data;
 using System.Drawing;
@@ -1191,7 +1192,8 @@ where id= (select id_adresa_dostave from na_stol where id_stol = '" + _odabraniS
 
         private void btnSveUKuhinju_Click(object sender, EventArgs e)
         {
-            //Ispisivanje svih narudžbi do sad
+            FrmNarudzbeNaStolu frmNarudzbeNaStolu = new FrmNarudzbeNaStolu();
+            frmNarudzbeNaStolu.ShowDialog();
         }
 
         private void btnOtpremnica_Click(object sender, EventArgs e)
