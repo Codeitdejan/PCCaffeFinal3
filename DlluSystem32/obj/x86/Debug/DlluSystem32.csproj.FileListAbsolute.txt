@@ -29,3 +29,17 @@ D:\Code - iT\Code-iT Ugostiteljstvo - Rework\Code-iT Ugostiteljstvo\DlluSystem32
 D:\Code - iT\Code-iT Ugostiteljstvo - Rework\Code-iT Ugostiteljstvo\DlluSystem32\obj\x86\Debug\DlluSystem32.csproj.CoreCompileInputs.cache
 D:\Code - iT\Code-iT Ugostiteljstvo - Rework\Code-iT Ugostiteljstvo\DlluSystem32\obj\x86\Debug\DlluSystem32.exe
 D:\Code - iT\Code-iT Ugostiteljstvo - Rework\Code-iT Ugostiteljstvo\DlluSystem32\obj\x86\Debug\DlluSystem32.pdb
+F:\work\CodeIT\POScaffe3\DlluSystem32\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\work\CodeIT\POScaffe3\DlluSystem32\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\work\CodeIT\POScaffe3\DlluSystem32\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\work\CodeIT\POScaffe3\DlluSystem32\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\work\CodeIT\POScaffe3\DlluSystem32\bin\Debug\DlluSystem32.exe.config
+F:\work\CodeIT\POScaffe3\DlluSystem32\bin\Debug\DlluSystem32.exe
+F:\work\CodeIT\POScaffe3\DlluSystem32\bin\Debug\DlluSystem32.pdb
+F:\work\CodeIT\POScaffe3\DlluSystem32\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\work\CodeIT\POScaffe3\DlluSystem32\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\work\CodeIT\POScaffe3\DlluSystem32\obj\x86\Debug\DlluSystem32.csprojAssemblyReference.cache
+F:\work\CodeIT\POScaffe3\DlluSystem32\obj\x86\Debug\DlluSystem32.csproj.CoreCompileInputs.cache
+F:\work\CodeIT\POScaffe3\DlluSystem32\obj\x86\Debug\DlluSystem32.csproj.CopyComplete
+F:\work\CodeIT\POScaffe3\DlluSystem32\obj\x86\Debug\DlluSystem32.exe
+F:\work\CodeIT\POScaffe3\DlluSystem32\obj\x86\Debug\DlluSystem32.pdb

@@ -1821,7 +1821,7 @@ namespace PCPOS
 
         private void uskladaRobeNaSkladištuToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            UskladaRobeNaSkladistuForm uskladaSkladista = new UskladaRobeNaSkladistuForm();
+            UskladaSkladistaForm uskladaSkladista = new UskladaSkladistaForm();
             uskladaSkladista.MdiParent = this;
             uskladaSkladista.Dock = DockStyle.Fill;
             uskladaSkladista.Show();

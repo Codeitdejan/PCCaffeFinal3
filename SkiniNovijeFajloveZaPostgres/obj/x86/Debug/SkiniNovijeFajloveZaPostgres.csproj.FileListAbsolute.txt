@@ -67,3 +67,20 @@ C:\Users\Korisnik\Desktop\PCPosCaffeFinal\Code-iT Ugostiteljstvo\Code-iT Ugostit
 C:\Users\Korisnik\Desktop\PCPosCaffeFinal\Code-iT Ugostiteljstvo\Code-iT Ugostiteljstvo\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.csproj.CoreCompileInputs.cache
 C:\Users\Korisnik\Desktop\PCPosCaffeFinal\Code-iT Ugostiteljstvo\Code-iT Ugostiteljstvo\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.exe
 C:\Users\Korisnik\Desktop\PCPosCaffeFinal\Code-iT Ugostiteljstvo\Code-iT Ugostiteljstvo\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.pdb
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\bin\Debug\SkiniNovijeFajloveZaPostgres.exe.config
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\bin\Debug\SkiniNovijeFajloveZaPostgres.exe
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\bin\Debug\SkiniNovijeFajloveZaPostgres.pdb
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.csprojAssemblyReference.cache
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.frmDownloadPostgres.resources
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.Properties.Resources.resources
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.csproj.GenerateResource.cache
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.csproj.CoreCompileInputs.cache
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.csproj.CopyComplete
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.exe
+F:\work\CodeIT\POScaffe3\SkiniNovijeFajloveZaPostgres\obj\x86\Debug\SkiniNovijeFajloveZaPostgres.pdb
